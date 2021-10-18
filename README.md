@@ -1,12 +1,4 @@
 # Restaurant Search App
-
-A restaurant search app built with Zomato API and Flutter.
-
-[Watch tutorial series](https://www.youtube.com/watch?v=GDUfd5oDUho)
-
-![Restaurant App Screenshot](raw/appshot_1.png)
-![Restaurant App Screenshot 2](raw/appshot_2.png)
-
 ## Getting Started
 
 1. Sign up for a [Zomato API Key](https://developers.zomato.com/api)
